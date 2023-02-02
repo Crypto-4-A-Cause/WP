@@ -6,8 +6,31 @@ description: >-
 
 # 🛣 ROADMAP
 
-In the third quarter of 2022, the team plans to conduct a private sale and list their ICO on various exchanges, while also completing KYC (know your customer) processes. They also plan to create NFTs (non-fungible tokens) and launch a marketing campaign, as well as release a beta version of their DAO (decentralized autonomous organization). In the fourth quarter of 2022, the team plans to conduct a public sale and apply to be listed on CoinMarketCap (CMC), as well as hold an AMA (ask me anything) event and forge partnerships with non-profit organizations. They also plan to list their DEX (decentralized exchange) and launch beta versions of their multi-chain yield farm and NFT farming.
+Phase 1: Concept Development (Q1 - Q2)
 
-In the first quarter of 2023, the team plans to launch $C4C and test their DAO's proposal system, while also releasing a beta version of the C4C exchange and minting a new NFT collection. They also plan to list the exchange and deploy play-to-earn NFTs for game fundraising and marketing efforts. In the third quarter of 2023, the team plans to engage in R\&D (research and development) on blockchain creation, C4C stablecoin development, and ERC721 use case development. It is important to note that roadmaps are subject to change and the actual timeline for achieving these milestones may differ from what is outlined in the roadmap.
+* Conduct market research and gather insights into the current health data management landscape
+* Define the product vision, mission, and goals
+* Outline the core features and functionalities of the app
+* Establish the design and architecture of the app
+* Develop a business plan and secure funding
 
-\
+Phase 2: Design and Development (Q3 - Q4)
+
+* Design and develop the user interface (UI) and user experience (UX) of the app
+* Develop the back-end infrastructure for the app
+* Integrate the blockchain technology and NFT smart contracts
+* Test and refine the app to ensure it is user-friendly and secure
+
+Phase 3: Testing and Launch (Q1 - Q2)
+
+* Conduct thorough testing and bug fixing of the app
+* Obtain all necessary certifications and approvals from relevant authorities
+* Prepare for the launch of the app, including marketing and PR activities
+* Launch the app on the web and mobile platforms
+
+Phase 4: Maintenance and Expansion (Q3 and beyond)
+
+* Continuously monitor and update the app to ensure its performance and security
+* Expand the app's reach and user base through marketing and PR activities
+* Add new features and functionalities to the app to enhance the user experience
+* Continuously gather feedback from users and incorporate it into future updates

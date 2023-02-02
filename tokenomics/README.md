@@ -12,50 +12,49 @@ layout: editorial
 
 50,000,000 $C4C Seed Holders
 
-150,000,000 $C4C ETH/AVA MulitChain Bridge
+50,000,000 $C4C ETH/AVA MulitChain Bridge
 
-27,000,000 $C4C Vested 1(yr) Team
+23,000,000 $C4C Payroll
 
-150,000,000 $C4C Investors
+27,000,000 $C4C Vested Team
 
-125,000,000 Exchange
+100,000,000 $C4C Investors
+
+350,000,000 Exchange
 
 75,000,000 Grants/Charities
 
-75,000,000 Mission Chest
+100,000,000 Mission Chest
 
-50,000,000 Marketing
+75,000,000 Marketing
 
 150,000,000 Burned&#x20;
-
-\
-
 
 </details>
 
 <details>
 
-<summary>C4C/BnB</summary>
+<summary>C4Cv2/BnB</summary>
 
 750,000,000 SUPPLY $C4C
 
-2,000,000 $C4C Team
+5,000,000 $C4C Team
 
-7,500,000 $C4C Rewards &#x20;
+5,000,000 $C4C Rewards &#x20;
 
 50,000,000 $C4C Investors
 
-200,000,000 $C4C Grants &#x20;
+45,000,000 $C4C Grants &#x20;
 
-100,000,000 $C4C Marketing&#x20;
+45,000,000 $C4C Marketing&#x20;
 
-200,000,000 Exchange&#x20;
+100,000,000 Exchange&#x20;
 
 50,000,000 $C4C Burned&#x20;
 
+Lock Address: 450M Locker&#x20;
 
-
-\
+[https://bscscan.com/token/0x8929dfe88b3a781e07d8ca08fd0633eb3e79de2c?a=0x36b34364e17373c05300bc3e827bf7cac34541be](https://bscscan.com/token/0x8929dfe88b3a781e07d8ca08fd0633eb3e79de2c?a=0x36b34364e17373c05300bc3e827bf7cac34541be)\
 
 
 </details>
@@ -73,5 +72,3 @@ Research is another important aspect of sustainability. This could include marke
 Educational grant funding can also play a key role in supporting the company. By providing funding for research and education initiatives related to the cause, the company can generate new ideas and insights that can be applied to its operations and initiatives.
 
 So, to sum it up, the key to sustaining the company through market highs and lows is to have a clear strategy for managing its treasury requirements and being proactive in identifying and addressing potential risks and challenges. By careful planning and budgeting, and by investing in marketing, research, and educational grant funding, the company can set itself up for long-term success.
-
-\

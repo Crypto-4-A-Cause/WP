@@ -19,22 +19,8 @@ The use of multichain protocols and farming and NFT staking pools can also help 
 
 The use of multichain protocols and farming and NFT staking pools is a key feature of C4C that provides users with greater flexibility and convenience, while also helping to stabilize the token price. By bringing smart use cases to its NFTs and allowing users to engage with a wide range of farming and staking pools, C4C is well-positioned to meet the needs of its community and achieve long-term success.
 
-## C4C/BnB LP MINING
 
-Purchase C4C/BnB (0x86028c1C730943AB56eBB7D6f39e20ad22121004)&#x20;
 
-{% embed url="https://app.dodoex.io/?from=BNB&network=bsc-mainnet&to=C4C" %}
 
-Head over to pancake swap.
-
-{% embed url="https://pancakeswap.finance/liquidity" %}
-
-Select liquidity from trade tab (then C4C/BnB) Add amount.
-
-Receive C4C LP Token. Let's go back to Dodo! And mine our C4C!
-
-{% embed url="https://app.dodoex.io/earn/mining?forced=true&ivc=0x7742f943De076D2fd98d56C1F82a4DfE4dc4e6bA&mining=0x7a2d29b24eb77d04e4994590aaa243f4ad42e2ac&network=bsc-mainnet" %}
-Once deposited sit back and recieve passive earning.
-{% endembed %}
 
 $C4C is built on patience and community and not trying to get rich quick, granted we will do our best to make $C4C a synonym with ETH, BTC, ADA, XRP longterm crypto communities. But our goal is to offer the chance to be part of the beginning of an awesome community made up of us.\
