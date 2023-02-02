@@ -12,25 +12,23 @@
 
 {% tabs %}
 {% tab title=""Dedication"" %}
-Crypto 4 a cause (C4C) is a platform that is dedicated to educating new crypto users about ongoing defi scams and providing a safe, autonomous environment for investors. The platform aims to bring together different thought groups and identify ways to combat crises such as water, food, gas, famine, health, housing, and insurance through the use of crypto and web3 technologies.
-
-One of the key goals of C4C is to inspire positive experiences in the crypto space, and to help users learn how to make money and keep their defi currency secure. To this end, C4C is working on the development of Scam Mercenaries, a game that revolves around the idea of giving something tangible back in exchange for time and money. The game aims to align game-fi, NFT, charity, and personal data security in a way that is fun and engaging for users.
-
-The development of Scam Mercenaries is just one part of C4C's larger mission to create a safer, more competent, and more educated crypto planet. Aligning these different elements is a complex and ambitious task, but one that C4C is committed to pursuing in order to create a brighter future for all crypto users.
-
-\
-
+At Crypto 4 a Cause, our dedication is to revolutionizing the way people store and manage their health data. We understand that health and personal medical data is extremely valuable and sensitive information that must be kept secure at all times, which is why we have developed a solution that utilizes the power of blockchain technology and NFT smart contracts to provide a secure and reliable platform for storing and managing health data. Our goal is to give users complete control over their personal health information and ensure that their sensitive data is kept confidential and secure at all times. We are dedicated to improving the safety and security of personal medical data and making it accessible to people wherever they may be, without the risk of data breaches or leaks.
 {% endtab %}
 
-{% tab title=""Campaign"" %}
-Crypto 4 a cause (C4C) is a platform that is dedicated to campaigning for humanitarian causes and giving a blockchain voice to issues that matter. The platform aims to bridge the gap between different cultures, age groups, genders, demographics, and schools of thought, and to bring people together to focus on viable charities, non-profits, and futuristic ideas that can help to solve ethical problems.
+{% tab title=""NFT Structure"" %}
+With numerous data breaches and leaks in recent years, it's clear that traditional storage methods are no longer adequate for safeguarding our health data, and this is where Crypto 4 A Cause comes in.
 
-One of the key features of the C4C platform is its use of proof of coverage protocol for its blockchain, which has a minuscule carbon footprint and helps to deliver medical data to participating networks while also helping to protect the environment. This protocol allows C4C to tap into vast pools of carbon positive resources and bring education, jobs, and skills to marginalized communities.
+Our platform will allow users to securely store and manage their own personal medical data on the IPFS registry, which is designed to retain all metadata saved from the app, and allows for only one owner - the person that the data pertains to. We understand the importance of privacy and security when it comes to personal health information, which is why our platform utilizes cutting-edge technology to ensure that only the owner of the information has access to it.&#x20;
 
-In addition to its blockchain, C4C is also developing an NFT app that seeks to bridge ethical solutions to the world stage. By leveraging innovation, education, and resources, C4C hopes to make a positive impact on the world and bring ethical solutions within reach of more people.
+We believe in the future of smartphone and wearable biometrics and that is why we have designed our platform to record health data through these devices, giving users complete control over their personal health information. Our app will allow users to input and save their medical data from any country, taking away the occurrence of data mining and lack of adequate medical information.
 
-Through its platform, C4C aims to bring people together and inspire positive change on a global scale.
+As we progress in the development of Crypto 4 A Cause, we will be following a roadmap to ensure that we are delivering a platform that meets the needs of our users. Our roadmap will include key milestones and deadlines to ensure that we are on track to deliver a cutting-edge solution to manage and store health data securely.
 
+Our dedication to the project is unwavering, and we are committed to providing a secure and reliable solution to manage and store health data. We believe that our project has the potential to make a real difference in people's lives and we are excited to bring it to market.
+
+Thank you for your interest in Crypto 4 A Cause, and we look forward to revolutionizing the way we store and manage our sensitive health data.
+
+\
 \
 
 {% endtab %}
