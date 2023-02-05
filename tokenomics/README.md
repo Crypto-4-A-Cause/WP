@@ -8,20 +8,27 @@ layout: editorial
 
 <summary>C4C/Matic</summary>
 
-Total Supply: 1,000,000,000 $C4C&#x20;
+1,000,000,000 $C$C Total Supply&#x20;
 
-1. Seed Holders: 5% (50,000,000 $C4C)&#x20;
-2. ETH/AVA MulitChain Bridge: 5% (50,000,000 $C4C)
-3. &#x20;Payroll: 2.3% (23,000,000 $C4C)&#x20;
-4. Vested Team: 2.7% (27,000,000 $C4C)&#x20;
-5. Investors: 10% (100,000,000 $C4C)&#x20;
-6. Exchange: 35% (350,000,000 $C4C)&#x20;
-7. Grants/Charities: 7.5% (75,000,000 $C4C)&#x20;
-8. Mission Chest: 10% (100,000,000 $C4C)&#x20;
-9. Marketing: 7.5% (75,000,000 $C4C)&#x20;
-10. Burned: 15% (150,000,000 $C4C)
+50,000,000 $C4C Seed Holders
 
+50,000,000 $C4C ETH/AVA MulitChain Bridge
 
+23,000,000 $C4C Payroll
+
+27,000,000 $C4C Vested Team
+
+100,000,000 $C4C Investors
+
+350,000,000 Exchange
+
+75,000,000 Grants/Charities
+
+100,000,000 Mission Chest
+
+75,000,000 Marketing
+
+150,000,000 Burned&#x20;
 
 </details>
 
@@ -52,14 +59,16 @@ Lock Address: 450M Locker&#x20;
 
 </details>
 
-The tokenomics model of $C4C (Crypto 4 a Cause) is designed to provide a balanced and efficient distribution of tokens to support the growth and success of the platform. A total of 1,000,000,000 $C4C tokens have been created, with a variety of different pools allocated for specific purposes.
+Unlock schedules:
 
-50,000,000 tokens have been set aside for seed holders, providing early supporters with a stake in the success of the platform. Another 50,000,000 tokens have been designated for use with the ETH/AVA MultiChain Bridge, enabling seamless integration with other blockchain platforms.
+C4C will follow a linear unlock schedule of 10% TGE & 3 Month Vesting
 
-The platform’s payroll has been allocated 23,000,000 tokens, while 27,000,000 tokens have been reserved for the vested team to incentivize and reward long-term commitment. Investors are also well catered for, with 100,000,000 tokens allocated specifically for their use.
+To make sure the company can survive through good times and bad, it's important to manage its treasury requirements carefully. This means planning and budgeting for expenses and making sure there are enough funds to support the company's operations and initiatives.
 
-350,000,000 tokens have been set aside for exchange, allowing users to easily buy, sell, and trade $C4C on various platforms. A further 75,000,000 tokens have been allocated for grants and charities, to support important initiatives in the healthcare and NFT communities.
+Marketing is also a big part of keeping the company going. The goal is to increase awareness of the cause and the token, and to attract new users and investors. This could include traditional marketing methods like advertising and PR, as well as newer approaches like social media campaigns and partnerships with influencers.
 
-100,000,000 tokens have been placed in a “mission chest”, to be used for future initiatives and projects aligned with the platform’s goals. 75,000,000 tokens have been allocated for marketing, ensuring that the platform and its services receive the exposure they deserve. Finally, 150,000,000 tokens have been burned, providing a level of scarcity and helping to maintain the value of the remaining tokens.
+Research is another important aspect of sustainability. This could include market research to understand the needs and preferences of potential customers, as well as research into new technologies and trends that might be relevant to the company's operations.
 
-Overall, this tokenomics model provides a well-balanced and transparent allocation of tokens, ensuring that all stakeholders are well represented and incentivized to contribute to the platform’s success.
+Educational grant funding can also play a key role in supporting the company. By providing funding for research and education initiatives related to the cause, the company can generate new ideas and insights that can be applied to its operations and initiatives.
+
+So, to sum it up, the key to sustaining the company through market highs and lows is to have a clear strategy for managing its treasury requirements and being proactive in identifying and addressing potential risks and challenges. By careful planning and budgeting, and by investing in marketing, research, and educational grant funding, the company can set itself up for long-term success.
