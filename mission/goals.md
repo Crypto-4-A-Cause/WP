@@ -3,7 +3,7 @@
 1. To revolutionize the way people manage their personal health data by leveraging the power of blockchain technology and NFT smart contracts.
 2. To provide users with secure, easy-to-use tools to store and manage their health information, ensuring that they remain in control of their data at all times.
 3. To create an NFT-based health data registry that uses IPFS to store metadata and other information, while guaranteeing that only the owner of the data can access it.
-4. To educate users about the dangers of health data scams and empower them to protect their personal information through the "Scam Mercenaries" game.
+4. To educate users about the dangers of crypto scams and empower them to protect their personal information through the "Scam Mercenaries" game.
 5. To make personal health data accessible, secure, and user-controlled, and make a significant impact on the healthcare industry and the lives of millions of people around the world.
 6. To raise awareness about crypto scams and provide education and resources to new crypto investors to help them avoid scams and protect their investments.
 
