@@ -8,27 +8,20 @@ layout: editorial
 
 <summary>C4C/Matic</summary>
 
-1,000,000,000 $C$C Total Supply&#x20;
+Total Supply: 1,000,000,000 $C4C&#x20;
 
-50,000,000 $C4C Seed Holders
+1. Seed Holders: 5% (50,000,000 $C4C)&#x20;
+2. ETH/AVA MulitChain Bridge: 5% (50,000,000 $C4C)
+3. &#x20;Payroll: 2.3% (23,000,000 $C4C)&#x20;
+4. Vested Team: 2.7% (27,000,000 $C4C)&#x20;
+5. Investors: 10% (100,000,000 $C4C)&#x20;
+6. Exchange: 35% (350,000,000 $C4C)&#x20;
+7. Grants/Charities: 7.5% (75,000,000 $C4C)&#x20;
+8. Mission Chest: 10% (100,000,000 $C4C)&#x20;
+9. Marketing: 7.5% (75,000,000 $C4C)&#x20;
+10. Burned: 15% (150,000,000 $C4C)
 
-50,000,000 $C4C ETH/AVA MulitChain Bridge
 
-23,000,000 $C4C Payroll
-
-27,000,000 $C4C Vested Team
-
-100,000,000 $C4C Investors
-
-350,000,000 Exchange
-
-75,000,000 Grants/Charities
-
-100,000,000 Mission Chest
-
-75,000,000 Marketing
-
-150,000,000 Burned&#x20;
 
 </details>
 
