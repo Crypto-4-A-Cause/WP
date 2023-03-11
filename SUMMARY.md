@@ -1,9 +1,9 @@
 # Table of contents
 
 * [Disclaimer](README.md)
-* [Mission](mission/README.md)
-  * [Goals](mission/goals.md)
+* [Mission](mission.md)
 * [Milestones:](milestones.md)
+* [Goals](goals.md)
 * [Inner Workings:](inner-workings.md)
 * [Use Cases](use-cases/README.md)
   * [Charity](use-cases/charity.md)
