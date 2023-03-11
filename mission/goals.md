@@ -1,4 +1,4 @@
-# Goals
+# Goals:
 
 Our primary goal is to create a charitable giving platform that allows users to donate to their favorite causes while ensuring that their contributions reach their intended recipients. We aim to provide a decentralized platform that allows users to donate in a secure and transparent manner while providing accountability and traceability of funds. By doing so, we hope to inspire a new era of philanthropy that is both efficient and effective.
 
