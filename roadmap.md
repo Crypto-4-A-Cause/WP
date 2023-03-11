@@ -28,9 +28,10 @@ Phase 3: Testing and Launch (Q1 - Q2)
 * Prepare for the launch of the app, including marketing and PR activities
 * Launch the app on the web and mobile platforms
 
-Phase 4: Maintenance and Expansion (Q3 and beyond)
+Phase 4: Global Expansion
 
-* Continuously monitor and update the app to ensure its performance and security
-* Expand the app's reach and user base through marketing and PR activities
-* Add new features and functionalities to the app to enhance the user experience
-* Continuously gather feedback from users and incorporate it into future updates
+* Build out a global network of C4C chapters to support local charitable causes
+* Expand the platform to support additional languages and currencies
+* Build out additional features, such as a C4C debit card and digital wallet for easy donation and spending of C4C tokens
+* Explore potential collaborations with other decentralized finance (DeFi) platforms to build out a comprehensive financial ecosystem for charitable causes
+* Expand the impact measurement system to support global causes and measure progress at a global scale
