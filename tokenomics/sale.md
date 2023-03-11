@@ -22,11 +22,11 @@ Sale Price
 
 Private Round ($0.0019) \<completed>
 
-Public (Round 1) $0.0025 \<completed>
+Public (Round 1) $0.0024&#x20;
 
-Public (Round 2) $0.0034&#x20;
+Public (Round 2) $0.0026&#x20;
 
-Public (Round 3) $0.0079 \<Tbd>
+Public (Round 3) $0.0029 \<Tbd>
 
 </details>
 

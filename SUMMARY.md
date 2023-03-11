@@ -3,6 +3,8 @@
 * [Disclaimer](README.md)
 * [Mission](mission/README.md)
   * [Goals](mission/goals.md)
+* [Milestones:](milestones.md)
+* [Inner Workings:](inner-workings.md)
 * [Use Cases](use-cases/README.md)
   * [Charity](use-cases/charity.md)
   * [Cross Chain Yield Farm](use-cases/cross-chain-yield-farm/README.md)

@@ -1,14 +1,13 @@
 # Goals
 
-1. Creation of p2e game-fi NFT Dapp iOS/Android
-2. Blockchain built on proof of coverage protocol
-3. Metaverse app community bridge
-4. Medical blockchain utilizing smart contracts to store & deliver senstive metadata safely.
-5. NFT charity farming & staking
-6. Centralized Exchange
-7. Hackathons and careers
-8. Education grants
-9. Non-Profit grants
+Our primary goal is to create a charitable giving platform that allows users to donate to their favorite causes while ensuring that their contributions reach their intended recipients. We aim to provide a decentralized platform that allows users to donate in a secure and transparent manner while providing accountability and traceability of funds. By doing so, we hope to inspire a new era of philanthropy that is both efficient and effective.
+
+The project's secondary goals include:
+
+1. Raising awareness about the potential of blockchain technology to revolutionize the charitable sector.
+2. Providing a transparent way for charities to receive donations and track their usage.
+3. Creating a self-sustaining ecosystem that benefits both users and charities.
+4. Encouraging the adoption of cryptocurrency by making it accessible to a wider audience.
 
 {% tabs %}
 {% tab title=""Dedication"" %}
@@ -27,10 +26,6 @@ As we progress in the development of Crypto 4 A Cause, we will be following a ro
 Our dedication to the project is unwavering, and we are committed to providing a secure and reliable solution to manage and store health data. We believe that our project has the potential to make a real difference in people's lives and we are excited to bring it to market.
 
 Thank you for your interest in Crypto 4 A Cause, and we look forward to revolutionizing the way we store and manage our sensitive health data.
-
-\
-\
-
 {% endtab %}
 {% endtabs %}
 
