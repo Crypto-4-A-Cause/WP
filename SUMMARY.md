@@ -23,7 +23,7 @@
   * [Sale](tokenomics/sale.md)
 * [🎲 Games and Meta](games-and-meta/README.md)
   * [Game Mechanics](games-and-meta/game-mechanics.md)
-  * [Game Walkthrough](games-and-meta/game-walkthrough.md)
+  * [Game Walkthrough](games-and-meta/lmec-rm.md)
   * [Game Environment](games-and-meta/game-environment.md)
 * [🔐 KYC & AUDIT](kyc-and-audit.md)
 * [🛣 ROADMAP](roadmap.md)
