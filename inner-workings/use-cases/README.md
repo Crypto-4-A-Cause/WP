@@ -53,6 +53,3 @@ But that's not all! This feature also allows you to transfer assets such as medi
 {% endtabs %}
 
 Crypto 4 A Cause is a innovative and forward-thinking project that has a wide range of use cases. Its integration with the Polygon chain and Binance chain and its focus on charitable giving, medical blockchain, and education grants make it a unique and valuable asset for its community of token holders. Whether you are looking to make a difference in the world or invest in your own personal growth, Crypto 4 A Cause has something to offer.
-
-\
-\
