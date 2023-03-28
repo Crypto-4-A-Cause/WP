@@ -13,10 +13,3 @@ While a charitable DAO has many benefits, there are also potential challenges th
 **Examples of Charitable DAOs**
 
 There are already several examples of charitable DAOs in existence. For example, Giveth is a charitable DAO that is focused on improving charitable giving by increasing transparency and accountability. Another example is The Giving Block, which is a charitable DAO that is focused on helping nonprofits accept cryptocurrency donations. These examples show the potential of charitable DAOs to transform the charitable sector.
-
-\
-\
-
-
-\
-\
