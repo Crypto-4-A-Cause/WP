@@ -17,3 +17,34 @@ OMoD provides researchers with access to patient data, enabling them to conduct 
 #### Insurance Companies
 
 OMoD provides insurance companies with access to medical data, enabling them to assess risk and provide appropriate insurance coverage. With patients' consent, insurance companies can use OMoD to access medical data and offer personalized insurance coverage.
+
+```
+           +-------------------+
+           |   Medical Chain   |
+           +---------+---------+
+                     |
+                     |
+           +---------v---------+
+           |   C4Chain Network |
+           +---------+---------+
+                     |
+                     |
+           +---------v---------+
+           |   Polygon Edge    |
+           +---------+---------+
+                     |
+                     |
+    +----------------+----------------+
+    |                                 |
++---v---+                         +---v---+
+|  NFT  |                         |  NFT  |
++---+---+                         +---+---+
+    |                                 |
+    |                                 |
++---v---+                         +---v---+
+|Patient|                         |Doctor |
++-------+                         +-------+
+
+```
+
+As shown in the flowchart, medical data is stored on the C4Chain network, which interacts with Polygon Edge for an added layer of data security. NFTs can be transferred to and from other EVM-based chains through the bridge. Patients can access and control their medical data through the app, and doctors can access the data with the patient's consent.
