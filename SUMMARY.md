@@ -10,7 +10,7 @@
 * [Part 1: The Problem with Traditional Charitable Giving](part-1-the-problem-with-traditional-charitable-giving.md)
 * [Part 2: How a Charitable DAO Works](part-2-how-a-charitable-dao-works.md)
 * [Milestones:](milestones.md)
-* [1. The Benefits of Decentralized Medical Data Management](1.-the-benefits-of-decentralized-medical-data-management.md)
+* [Part 1. The Benefits of Decentralized Medical Data Management](part-1.-the-benefits-of-decentralized-medical-data-management.md)
 * [Inner Workings:](inner-workings.md)
   * [Use Cases](use-cases/README.md)
     * [Charity](use-cases/charity.md)

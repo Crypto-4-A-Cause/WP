@@ -5,7 +5,7 @@ description: >-
   access and sharing.
 ---
 
-# 1. The Benefits of Decentralized Medical Data Management
+# Part 1. The Benefits of Decentralized Medical Data Management
 
 2. **The Role of Blockchain Technology in Medical Data Management**&#x20;
 
