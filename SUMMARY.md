@@ -2,7 +2,9 @@
 
 * [Disclaimer](README.md)
 * [Mission](mission.md)
-* [C4Chain Network](c4chain-network.md)
+* [C4Chain Network](c4chain-network/README.md)
+  * [Technical Details](c4chain-network/technical-details.md)
+  * [Problem & Solution](c4chain-network/problem-and-solution.md)
 * [Introduction to our Dapp](mission/README.md)
 * [Use Cases for OMoD Dapp](mission/goals.md)
 * [Part 1: The Problem with Traditional Charitable Giving](part-1-the-problem-with-traditional-charitable-giving.md)
