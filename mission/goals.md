@@ -47,4 +47,46 @@ OMoD provides insurance companies with access to medical data, enabling them to 
 
 ```
 
-As shown in the flowchart, medical data is stored on the C4Chain network, which interacts with Polygon Edge for an added layer of data security. NFTs can be transferred to and from other EVM-based chains through the bridge. Patients can access and control their medical data through the app, and doctors can access the data with the patient's consent.
+As shown in the flowchart, medical data is stored on the C4Chain network, which interacts with Polygon Edge for an added layer of data security. NFTs can be transferred to and from other EVM-based chains through the bridge. Patients can access and control their medical data through the app, and doctors can access the data with the patient's consent
+
+```
+                   +----------------------+
+                   |         User         |
+                   +----------------------+
+                             |
+                             | Registers/Logs In
+                             V
+                   +----------------------+
+                   |       Frontend       |
+                   +----------------------+
+                             |
+                             | Sends requests/responses
+                             V
+                   +----------------------+
+                   |      Polygon Edge    |
+                   +----------------------+
+                             |
+                             | Interacts with C4Chain
+                             V
+                   +----------------------+
+                   |        C4Chain       |
+                   +----------------------+
+                            /        \
+                           /          \
+                          /            \
+         +----------------------+  +------------------------+
+         |     Patient DApp     |  |     Insurance DApp      |
+         +----------------------+  +------------------------+
+                            |                 |
+                            |                 | Interact with Smart Contracts
+                            V                 V
+                +----------------------+   +-------------------------+
+                |         IPFS         |   |         Filecoin          |
+                +----------------------+   +-------------------------+
+                            |                              |
+                            |                              | Stores and Retrieves Data
+                            V                              V
+                +----------------------+          +------------------------+
+                |     Blockchain       |          |        Storage Miner     |
+                +----------------------+          +------------------------+
+```

@@ -10,6 +10,45 @@ OMoD (One Medical on Decentralized) is a blockchain-based medical data managemen
 
 OMoD stores patient data on the C4Chain network, ensuring the data is encrypted and HIPAA-compliant. The C4Chain network provides a secure, decentralized storage solution that allows users to control their data access and sharing. By utilizing blockchain technology, OMoD ensures that patients' medical records are immutable and can only be accessed with the owner's consent.
 
+```
+         +------------+
+         |    User    |
+         +------------+
+                |
+                | Registers/Logs In
+                V
+         +------------+
+         |   Frontend |
+         +------------+
+                |
+                | Sends requests/responses
+                V
+    +-----------------------+
+    |    Polygon Mainnet     |
+    +-----------------------+
+                |
+                | Interacts with C4Chain
+                V
+         +------------+
+         | C4Chain    |
+         +------------+
+          /           \
+         /             \
+        /               \
+ +-------------+   +---------------+
+ | Patient DApp|   | Insurance DApp|
+ +-------------+   +---------------+
+                |
+                | Interact with Smart Contracts
+                V
+         +-----------------+
+         |    Blockchain    |
+         +-----------------+
+
+```
+
+In this flow chart, the user registers or logs in to the frontend of the application. The frontend sends requests/responses to the Polygon Mainnet, which interacts with C4Chain. The C4Chain is a blockchain that hosts two decentralized applications - the Patient DApp and the Insurance DApp. These DApps interact with smart contracts on the blockchain to access and update patient and insurance data securely. The Polygon Mainnet serves as a bridge between C4Chain and the frontend.
+
 ### Features and Benefits of OMoD
 
 OMoD offers a range of features and benefits to its users, including:
