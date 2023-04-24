@@ -2,6 +2,10 @@
 
 * [Disclaimer](README.md)
 * [Mission](mission.md)
+* [C4cexy Swap](c4cexy-swap/README.md)
+  * [Exchange Perks](c4cexy-swap/exchange-perks/README.md)
+    * [Listing and Hosting Tokens](c4cexy-swap/exchange-perks/listing-and-hosting-tokens/README.md)
+      * [Smart Contract for Earnings](c4cexy-swap/exchange-perks/listing-and-hosting-tokens/smart-contract-for-earnings.md)
 * [C4Chain Network](c4chain-network/README.md)
   * [Technical Details](c4chain-network/technical-details.md)
   * [Problem & Solution](c4chain-network/problem-and-solution.md)
