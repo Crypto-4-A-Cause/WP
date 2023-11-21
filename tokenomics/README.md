@@ -52,13 +52,13 @@ Lock Address: 450M Locker&#x20;
 
 </details>
 
-The tokenomics model of $C4C (Crypto 4 a Cause) is designed to provide a balanced and efficient distribution of tokens to support the growth and success of the platform. A total of 1,000,000,000 $C4C tokens have been created, with a variety of different pools allocated for specific purposes.
+The tokenomics model of $C4C (Crypto 4 a Cause) is designed to provide a balanced and efficient distribution of tokens to support the growth and success of the platform. A total of 10,000,000,000 $C4C tokens have been created, with a variety of different pools allocated for specific purposes.
 
-50,000,000 tokens have been set aside for seed holders, providing early supporters with a stake in the success of the platform. Another 50,000,000 tokens have been designated for use with the ETH/AVA MultiChain Bridge, enabling seamless integration with other blockchain platforms.
+500,000,000 tokens have been set aside for seed holders, providing early supporters with a stake in the success of the platform. Another 50,000,000 tokens have been designated for use with the ETH/AVA MultiChain Bridge, enabling seamless integration with other blockchain platforms.
 
-The platform’s payroll has been allocated 23,000,000 tokens, while 27,000,000 tokens have been reserved for the vested team to incentivize and reward long-term commitment. Investors are also well catered for, with 100,000,000 tokens allocated specifically for their use.
+The platform’s payroll has been allocated 23,000,000 tokens, while 270,000,000 tokens have been reserved for the vested team to incentivize and reward long-term commitment. Investors are also well catered for, with 3,000,000,000 tokens allocated specifically for their use.
 
-350,000,000 tokens have been set aside for exchange, allowing users to easily buy, sell, and trade $C4C on various platforms. A further 75,000,000 tokens have been allocated for grants and charities, to support important initiatives in the healthcare and NFT communities.
+3,500,000,000 tokens have been set aside for exchange, allowing users to easily buy, sell, and trade $C4C on various platforms. A further 750,000,000 tokens have been allocated for grants and charities, to support important initiatives in the healthcare and NFT communities.
 
 100,000,000 tokens have been placed in a “mission chest”, to be used for future initiatives and projects aligned with the platform’s goals. 75,000,000 tokens have been allocated for marketing, ensuring that the platform and its services receive the exposure they deserve. Finally, 150,000,000 tokens have been burned, providing a level of scarcity and helping to maintain the value of the remaining tokens.
 
